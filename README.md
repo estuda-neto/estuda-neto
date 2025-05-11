@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">🏆 Neto - Fullstack Developer</h1>
 
-<!--
-**estuda-neto/estuda-neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>👋 Fala Dev!</strong> Seja bem-vindo ao meu repositório! Aqui você vai encontrar uma variedade de soluções nas áreas de automação, web e mobile — sempre usando o que há de novo nos ecossistemas 
+  <span style="color: #3178c6"><strong>TypeScript</strong></span> e 
+  <span style="color: #FFFF00"><strong>Python</strong></span>.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Problemas já desenvolvidos
+
+- Portifolio para 99
+    - 🎯 Divulgação de serviços, dashboard com quantidade de acessos por mês.
+    - 🔧 Java, SpringMVC, SDK Gerencianet, tymeleaf, mysql.
+- Divulga Potiguar
+    - 🎯 Divulgação de Imóveis, Leitura de documentos pdf e de Foto, OCR.
+    - ❌ Fail, Não existe API pública, gratuita, fazendo com que a verificação dos imoveis não batessem 100% pois mesmo com dados sendo lidos corretamente do pdf,não haveria como cruzar os dados com validação de cartório etc.
+    - 🔧 Java, SpringBoot, swagger , spring batch, Hibernate/Jpa, mysql, SDK efi pay.
+    - 🔧 React, Nextjs, next-auth , Storybook, HookForm, yup, zustand e pdfjs.
+- Automação e Boot, API para Wattsap
+    - 🎯 Árvore de decisão e automação.
+    - 🔧 Typescript, nodejs, express, swagger, node-cron, whatsapp-web.js, sequelize e umzug.
+- Automação para Linkedin 
+    - 🔧 Python, FastAPI, swagger , BS4, Web Drive, Selenium, SqlAlchemy e Postgress.
+- Horario transporte Caicó/Sanja
+    - 🎯 Compartilhar horários das vans.
+    - 🔧 Expo RN, Linking for watts, planilha excel no drive.
+- App para Queijaria milkapi
+    - 🎯 Metricas de arrecadação e previsões DL4J.
+    - 🔧 Java, SpringBoot, Hibernate/Jpa, mysql, SDK efi pay.
+    - 🔧 Expo RN, com graficos web view.
+- App para açaíteria
+    - 🔧 Java, SpringBoot, Hibernate/Jpa, mysql, SDK efi pay.
+    - 🔧 Expo RN.
+- App mini ecommerce
+    - 🎯 Variações dos Produtos.
+    - 🔧 Java, SpringBoot, Hibernate/Jpa, mysql, efi api.
+    - 🔧 Expo RN.
+- Algoritmos Base para IA
+    - 🎯 Algoritmos base como regressões, neurônios, Bayes, árvores de decisão, grafos etc...
+    - 🔧 Node com typescript
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=estuda-neto&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estuda-neto&layout=compact&theme=tokyonight" height="180"/>
+</p>
