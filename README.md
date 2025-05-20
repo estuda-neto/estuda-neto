@@ -34,8 +34,11 @@
     - 🔧 Expo RN.
 - App mini ecommerce
     - 🎯 Variações dos Produtos.
-    - 🔧 Java, SpringBoot, Hibernate/Jpa, mysql, efi api.
+    - 🔧 Nodejs/express, sequelize, mysql, efi api.
     - 🔧 Expo RN.
 - Algoritmos Base para IA
     - 🎯 Algoritmos base como regressões, neurônios, Bayes, árvores de decisão, grafos etc...
     - 🔧 Node com typescript
+- Em andamento ⏳ Salus
+    - 🎯 Algoritmos base, minimização de função, melhor horários, profissionais, serviços/exames e agendamentos .
+    - 🔧 Nest,Sequelize,Mysql
