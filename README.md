@@ -40,5 +40,5 @@
     - 🎯 Algoritmos base como regressões, neurônios, Bayes, árvores de decisão, grafos etc...
     - 🔧 Node com typescript
 - Em andamento ⏳ Salus
-    - 🎯 Algoritmos base, minimização de função, melhor horários, profissionais, serviços/exames e agendamentos .
+    - 🎯 Algoritmos base, otimização de função, melhor horários, profissionais, serviços/exames e agendamentos .
     - 🔧 Nest,Sequelize,Mysql
