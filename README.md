@@ -1,3 +1,4 @@
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" /> -->
 <h1 align="center">🏆 Neto - Fullstack Developer</h1>
 
 <p align="center">
@@ -17,8 +18,6 @@
 - Automação e Boot, API para Wattsap
     - 🎯 Árvore de decisão e automação.
     - 🔧 Typescript, nodejs, express, swagger, node-cron, whatsapp-web.js, sequelize e umzug.
-- Automação para Linkedin 
-    - 🔧 Python, FastAPI, swagger , BS4, Web Drive, Selenium, SqlAlchemy e Postgress.
 - Horario transporte Caicó/Sanja
     - 🎯 Compartilhar horários das vans.
     - 🔧 Expo RN, Linking for watts, planilha excel no drive.
@@ -32,3 +31,35 @@
 - Em andamento ⏳ Salus
     - 🎯 Algoritmos base, otimização de função, melhor horários, profissionais, serviços/exames e agendamentos .
     - 🔧 Nest,Sequelize,Mysql
+<p align="center">
+  <a href="https://github.com/estuda-neto">
+    <img src="https://img.shields.io/github/followers/estuda-neto?label=Seguidores&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/clodoaldo-neto/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 🧰 Tecnologias que uso no dia a dia:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 📊 Minhas estatísticas do GitHub:
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=estuda-neto&show_icons=true&theme=radical&count_private=true&hide_rank=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estuda-neto&layout=compact&theme=radical&hide_progress=true" />
+  
+</p>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" /> -->
