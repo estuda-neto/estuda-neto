@@ -18,9 +18,6 @@
 - Automação e Boot, API para Wattsap
     - 🎯 Árvore de decisão e automação.
     - 🔧 Typescript, nodejs, express, swagger, node-cron, whatsapp-web.js, sequelize e umzug.
-- Horario transporte Caicó/Sanja
-    - 🎯 Compartilhar horários das vans.
-    - 🔧 Expo RN, Linking for watts, planilha excel no drive.
 - App mini ecommerce
     - 🎯 Variações dos Produtos.
     - 🔧 Nodejs/express, sequelize, mysql, efi api.
@@ -28,14 +25,19 @@
 - Algoritmos Base para IA
     - 🎯 Algoritmos base como regressões, neurônios, Bayes, árvores de decisão, grafos etc...
     - 🔧 Node com typescript
-- Em andamento ⏳ Salus
+-  MedSync
     - 🎯 Algoritmos base, otimização de função, melhor horários, profissionais, serviços/exames e agendamentos .
     - 🔧 Nest,Sequelize,Mysql
+- Sabugi cars
+    - 🎯 Update logica antigo aplicativo expo.
+    - 🎯 Disponibilizar horários de transporte, com dashboard e controle.
+    - 🔧 React com typescript sem framework, form hook, yup , toast, vite e Supabase.
+    
 <p align="center">
   <a href="https://github.com/estuda-neto">
     <img src="https://img.shields.io/github/followers/estuda-neto?label=Seguidores&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://www.linkedin.com/in/clodoaldo-neto/">
+  <a href="https://www.linkedin.com/in/clodoaldo-neto">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
